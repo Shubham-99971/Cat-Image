@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center; 
+    height: 100vh;
+    margin: 0;
+    background-color: #B48291;
+}
+#btn{
+    height: 60px;
+    width:100px;
+    border: 2px solid black;
+    border-radius: 1rem;
+    margin-bottom: 8px;
+    margin-top: 4px;
+    background-color: #a94e60;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 1); ;
+}
+#img{
+         width: auto;
+         height: 630px;
+         display: none;
+}
+
